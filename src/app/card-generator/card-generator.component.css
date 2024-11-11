@@ -18,8 +18,9 @@
   left: 50%;
   transform: translate(-50%, -50%);
   font-size: 18px;
-  font-weight: bold;
-  color: rgb(255, 255, 255);
+  font-family: "Poppins", sans-serif;
+  font-weight: 700;
+  color: rgb(0, 73, 129);
   text-align: center;
   width: 100%;
   box-sizing: border-box;
